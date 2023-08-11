@@ -5,7 +5,7 @@
 * The challenge showcases the knowledge of SparkSQL to determine key metrics about home sales data.
 
 ## Steps followed to perform the Analysis
---
+
 --**Using Spark to**--<br>
   * Created temporary views
   * Partitioned the data
