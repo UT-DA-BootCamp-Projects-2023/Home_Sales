@@ -1,8 +1,7 @@
 # Home_Sales_Module22_Challenge
---
 
 # Overview of the Analysis
---
+
 * The challenge showcases the knowledge of SparkSQL to determine key metrics about home sales data.
 
 ## Steps followed to perform the Analysis
